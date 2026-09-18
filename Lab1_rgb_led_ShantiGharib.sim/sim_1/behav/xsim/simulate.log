@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Note: Test Passed
+Time: 636001 ps  Iteration: 0  Process: /top_tb/test_process  File: G:/Xilinx/Vivado/2023.2/projects/Lab1_rgb_led_ShantiGharib/Lab1_rgb_led_ShantiGharib.srcs/sim_1/new/top_tb.vhd
+$finish called at time : 636001 ps : File "G:/Xilinx/Vivado/2023.2/projects/Lab1_rgb_led_ShantiGharib/Lab1_rgb_led_ShantiGharib.srcs/sim_1/new/top_tb.vhd" Line 218
